@@ -5,7 +5,7 @@
       gcp_project: devops-handson-309115
       gcp_cred_kind: serviceaccount
       gcp_cred_file: /home/sdummani/my_account.json
-      zone: "us-central1-a"
+      zone: "us-central1-b"
       region: "us-central1"
 
   tasks:
